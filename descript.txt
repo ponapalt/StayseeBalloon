@@ -63,6 +63,6 @@ number.xr,-38
 number.y,-37
 
 communicatebox.x,8
-communicatebox.y,16
+communicatebox.y,18
 communicatebox.width,385
 communicatebox.height,21
