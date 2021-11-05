@@ -9,6 +9,7 @@ craftmanurl,http://ms.shillest.net/
 homeurl,http://ms.shillest.net/balloon/StayseeBalloon/
 
 use_self_alpha,1
+use_input_alpha,1
 paint_transparent_region_black,0
 
 validrect.left,22
